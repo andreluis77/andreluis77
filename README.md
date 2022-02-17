@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Bem-vindos!
 
-Meu nome é André Luís e atuo na área de TI desde 1994. Comecei minha carreira em TI como programador em Clipper e Visual Basic; atualmente sou Coordenador de Suporte em uma indústria têxtil desde 1998, onde atuo na área de Suporte e Infraestrutura de Rede.
+Meu nome é André Luís e atuo na área de TI desde 1994. Comecei minha carreira em TI como programador em Clipper e Visual Basic; atualmente sou Coordenador de Suporte em uma indústria têxtil desde 1998, onde atuo na área de Suporte e Infraestrutura de Redes.
 
 Estou cursando o curso de Gestão da Tecnologia da Informação da UNINOVE.
 <br><br><br>
