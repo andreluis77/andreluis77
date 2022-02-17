@@ -15,20 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bem-vindo!
+Bem-vindos!
 
-Meu nome é André Luís e atuo na área de TI desde 1994.
+Meu nome é André Luís e atuo na área de TI desde 1994. Comecei minha carreira em TI como programador em Clipper e Visual Basic; atualmente sou Coordenador de Suporte em uma indústria têxtil desde 1998, onde atuo na área de Suporte e Infraestrutura de Rede.
 
-<br>
-
+Estou cursando o curso de Gestão da Tecnologia da Informação da UNINOVE.
+<br><br><br>
 <!-- GITHUB STATUS -->
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=andreluis77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <p>
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis77&layout=compact&langs_count=7&theme=tokyonight"/>
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
 <br>
-
 <!-- REDES SOCIAIS 
 <div align="center">
   <a href="https://www.youtube.com/tecnologiaemvideo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
